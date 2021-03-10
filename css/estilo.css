@@ -1,0 +1,149 @@
+/*Limpar formatações padrão*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 1em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background: #FFE4E1;
+}
+
+#area-cabecalho{
+    background-color: #00EE00;
+    padding: 15px;
+    text-align: center;
+}
+
+#menu-navegacao{
+    background: #00EE00;
+    border-radius: 30px;
+    text-align: center;
+    width: 920px;
+    margin: 20px auto;
+    margin-bottom: 5px;
+    padding: 8px;
+}
+
+#area-logo{
+    padding: 15px;
+}
+
+/* ******----Formatação menu----****** */
+#menu{
+    padding: 15px;
+}
+
+#menu-navegacao a:link{
+    text-decoration: none;
+    padding: 8px 55px;
+    font-size: 1.2em;
+    width: 920px;
+}
+
+#menu-navegacao a:link, #menu-navegacao a:visited{
+    color:#698B22;
+}
+
+#menu-navegacao a:hover {
+    color: #FFFFFF;
+    background:#2E8B57;
+}
+
+/* ****----Formatações em geral----**** */
+h1{
+    color: #2E8B57;
+    font-size: 3.5em;
+}
+
+.branco{
+    color: #FFFFFF;
+}
+
+#area-principal{
+    padding: 20px;
+    width: 920px;
+    margin: 0 auto;  
+}
+
+#area-postagens{
+    width: 600px;
+    float: left;
+}
+
+#area-lateral{
+    width: 240px;
+    float: right;
+    background: #F0FFFF;
+}
+
+.postagens{
+    padding: 20px;
+    margin-bottom: 29px;
+    background: #F0FFFF;
+}
+
+h2{
+    color: #00FF00;
+}
+
+.data-postagens{
+    font-size: 0.8em;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+a:link, a:visited{
+    color: #32CD32;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+h3{
+    background: #D3D3D3;
+    color: #363636;
+    padding: 5px;
+}
+
+.postagem-lateral{
+    font-size: 0.9em;
+    padding: 5px;
+}
+
+.postagem-categoria{
+    padding-left: 0px;
+}
+
+.conteudo-lateral{
+    background: #F0FFFF;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.postagem-lateral{
+    font-size: 0.8em;
+    padding:5px;
+}
+
+#roda-pe{
+    font-family: FreeMono, monospace;
+    font-size: 1em;
+    clear: both;
+    background: #2F4F4F;
+    text-align: center;
+    padding: 15px;
+    color: #00FFFF;
+}
+
+.tecblog-rodape{
+    color: #FFA500;
+}
+
+
+
+
+
