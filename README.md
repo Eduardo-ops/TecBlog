@@ -1,0 +1,1 @@
+Site desenvolvimento em html e css puro, para que assim, posso demonstrar o conhecimento e a prática adquirida no curso de Desenvolvimento Completo. Site seria um blog de tecnologia e diversas notícias no ramo. Link para verificação: https://eduardo-ops.github.io/TecBlog/
